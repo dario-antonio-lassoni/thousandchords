@@ -1,8 +1,7 @@
 # thousandchords
 
-ThousandChords è un servizio che consente di conoscere il testo con i relativi accordi per chitarra
-	delle canzoni desiderate.
-
+	ThousandChords è un servizio che consente di conoscere il testo con i relativi accordi per chitarra delle canzoni desiderate.
+	
 	Nella homepage è possibile visualizzare i contenuti più votati dagli utenti con un voto che va da 1 a 5 stelle. 
 	E' inoltre possibile effetturare una ricerca (per titolo) attraverso il campo presente in alto a destra 
 	(il limite è di 130 risultati / 13 pagine con risultati distribuiti in forma tabellare (10 risultati per pagina)).
