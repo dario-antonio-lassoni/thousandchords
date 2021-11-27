@@ -1,5 +1,6 @@
 # ThousandChords
 Link al sito: https://thousandchords.altervista.org/
+
 ThousandChords è un servizio che consente di conoscere il testo con i relativi accordi per chitarra delle canzoni desiderate.
 
 Nella homepage è possibile visualizzare i contenuti più votati dagli utenti con un voto che va da 1 a 5 stelle. 
