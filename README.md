@@ -1,6 +1,6 @@
 # ThousandChords
 
-![logo](https://github.com/user-attachments/assets/9be44e41-d071-441c-9927-9a58b206ec6c)
+![logo]([https://github.com/user-attachments/assets/9be44e41-d071-441c-9927-9a58b206ec6c](https://thousandchords.altervista.org/))
 
 Link to the site: https://thousandchords.altervista.org/
 
