@@ -1,4 +1,7 @@
-# ![<img src="https://github.com/user-attachments/assets/63677978-40a2-4d8e-8329-c3438a90edd2">](https://thousandchords.altervista.org/)
+# [![<img src="https://github.com/user-attachments/assets/63677978-40a2-4d8e-8329-c3438a90edd2">](https://thousandchords.altervista.org/)]
+[![image](Image Link on Github)](Your Link Address)
+
+
 
 Link to the site: https://thousandchords.altervista.org/
 
