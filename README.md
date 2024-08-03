@@ -1,5 +1,7 @@
 # ThousandChords
 
+![logo](https://github.com/user-attachments/assets/9be44e41-d071-441c-9927-9a58b206ec6c)
+
 Link to the site: https://thousandchords.altervista.org/
 
 ThousandChords is a service that allows you to find song lyrics along with the corresponding guitar chords.
@@ -28,6 +30,9 @@ Finally, you can find out the chords whose fingering you don't know through a sm
 The versioning system allows distinguishing different versions of content uploaded by the same user. If you try to add previously created content (title, album, artist, and genre same as before), a new content item will be created but with a different version. Note that versions are tied to individual users, so if the same content is uploaded by different users, the version number may coincide.
 
 _______________________________________________________________________________________________________________________________
+
+(IT)
+
 Link al sito: https://thousandchords.altervista.org/
 
 ThousandChords è un servizio che consente di conoscere il testo con i relativi accordi per chitarra delle canzoni desiderate.
